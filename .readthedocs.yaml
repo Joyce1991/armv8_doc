@@ -17,6 +17,7 @@ build:
   apt_packages:
     - libmemcached-dev
     - texlive-full  # 安装完整版 LaTeX（包含中文字体）
+    - fonts-noto-cjk  # 安装 Noto 字体
 
 # Build documentation with MkDocs
 #mkdocs:

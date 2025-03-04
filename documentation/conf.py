@@ -54,7 +54,7 @@ latex_elements = {
     'preamble': r'''
         \usepackage{ctex}
         \usepackage{xeCJK}
-        \setCJKmainfont{SimSun}  # 设置中文字体（例如 Windows 的宋体）
+        \setCJKmainfont{Noto Serif CJK SC}  # 设置中文字体（例如 Windows 的宋体）
         \XeTeXlinebreaklocale "zh"
         \XeTeXlinebreakskip = 0pt plus 1pt
     '''
