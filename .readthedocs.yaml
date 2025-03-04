@@ -16,6 +16,7 @@ build:
     python: "3.12"
   apt_packages:
     - libmemcached-dev
+    - texlive-full  # 安装完整版 LaTeX（包含中文字体）
 
 # Build documentation with MkDocs
 #mkdocs:
