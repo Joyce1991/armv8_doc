@@ -1,25 +1,22 @@
-## Armv8/armv9¼Ü¹¹ÈëÃÅÖ¸ÄÏ
+## Armv8/armv9ï¿½Ü¹ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½
 
-ÕâÊÇÒ»ÆªÓÐÍøÓÑÒ»ÆðÖ±ÒëµÄÎÄµµ¡£
-
-<img border="0" src="https://img-blog.csdnimg.cn/d251943a437943ccb1b4deffaa70e378.png" alt="Pulpit rock" width="280" height="280" />
-
-![ÔÚÕâÀï²åÈëÍ¼Æ¬ÃèÊö](documentation/qr_code/xuanchuan.jpg)
+ï¿½ï¿½ï¿½ï¿½Ò»Æªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½Äµï¿½ï¿½ï¿½
 
 
-## ±àÐ´ÎÄµµÖ¸ÄÏ
 
-#### °²×°±ØÒª¹¤¾ß
+## ï¿½ï¿½Ð´ï¿½Äµï¿½Ö¸ï¿½ï¿½
+
+#### ï¿½ï¿½×°ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½
 
 sudo apt install git make python3 python3-pip
 
 
-#### °²×°ÒÀÀµ°ü
+#### ï¿½ï¿½×°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 pip install -r requirements.txt
 
-#### ±àÒë
+#### ï¿½ï¿½ï¿½ï¿½
 
 make html
 
-±àÒëºóÊä³öbuild/html/index.htmlÎÄ¼þ£¬ÓÃä¯ÀÀÆ÷´ò¿ª¼´¿É¿´µ½Æ¯ÁÁµÄÍøÒ³
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½build/html/index.htmlï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò¿ª¼ï¿½ï¿½É¿ï¿½ï¿½ï¿½Æ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò³

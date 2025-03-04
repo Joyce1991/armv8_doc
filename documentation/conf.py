@@ -50,6 +50,16 @@ source_encoding = 'utf-8'
 
 latex_engine = 'xelatex'
 
+latex_elements = {
+    'preamble': r'''
+        \usepackage{ctex}
+        \usepackage{xeCJK}
+        \setCJKmainfont{SimSun}  # 设置中文字体（例如 Windows 的宋体）
+        \XeTeXlinebreaklocale "zh"
+        \XeTeXlinebreakskip = 0pt plus 1pt
+    '''
+}
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
